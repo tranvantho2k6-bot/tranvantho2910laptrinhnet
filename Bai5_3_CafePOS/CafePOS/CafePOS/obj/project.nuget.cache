@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "UFjKut0i+IA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OS\\Downloads\\files\\Bai5_3_CafePOS\\CafePOS\\CafePOS\\CafePOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OS\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\OS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.32\\microsoft.netcore.app.host.win-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "Package 'MySqlConnector' 2.3.7 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\OS\\Downloads\\files\\Bai5_3_CafePOS\\CafePOS\\CafePOS\\CafePOS.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\OS\\Downloads\\files\\Bai5_3_CafePOS\\CafePOS\\CafePOS\\CafePOS.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net8.0-windows"
+      ]
+    }
+  ]
+}
